@@ -1,11 +1,5 @@
 Nice to meet you! I'm Franco
 
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=B439D4E4&background=00000018&width=435&lines=Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;E-commerce+Creator+%F0%9F%92%BB;React%2C+Node%2C+MySQL+%F0%9F%93%92" alt="Typing SVG" />
-    </a>
-</p>
-
 ## 🚀 About Me:
 
 I'm a systems engineer and a graduate of the Master of Software Engineering. As a software developer with a passion for technology, I strongly believe that the purpose of technology is to enhance people's quality of life by addressing their needs. My core values ​​include teamwork, ethics, adaptability, sustainability, and continuous improvement.
